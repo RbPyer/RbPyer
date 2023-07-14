@@ -1,18 +1,34 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <b>💫Hi! I am Mikhail and I am a novice developer in Python and Go💫</b>
 </div>
-<!--
-**RbPyer/RbPyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://forum.diamondrp.ru/data/attachments/1836/1836455-3e5e06081be767faa1fe1cf6b6ccdaa1.jpg" width="600"/>
+</div>
+<div id="header" align="center">
+  <img src="https://secretmag.ru/imgs/2019/11/18/16/3659961/8a659c9ba6fb1ed6e8078875fab7a62862fcb13c.gif" width="400"/>
+</div>
+<div id="header" align="center">
+  <img src="https://forum.diamondrp.ru/data/attachments/1836/1836455-3e5e06081be767faa1fe1cf6b6ccdaa1.jpg" width="600"/>
+</div>
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning programming on Python, Go, C and sometimes Ruby
+- 🤔 I’m very interested in backend-development
+- 👯 I'm very friendly and non-toxic person ;) 
+- 📫 I'm looking for a job as Python/Go backend-developer
+- 🧠 I'm a student of School 21 (School 42 RUS). I passed the Survival Camp in June 2023 as Oswyn Deloras and took 6th place in the Axolotl tribe
+<div id="header" align="center">
+  <img src="https://sun6-23.userapi.com/s/v1/if1/F_JbgEXQ5UXcG0Rc5-qVuKrgIe0UYZHiXGOFk0zXPCa5kLWZ38GfYIZihgPfJZed4UrQWDiN.jpg?size=1401x1401&quality=96&crop=49,49,1401,1401&ava=1" width="300"/>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp
+</div>
