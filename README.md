@@ -19,7 +19,7 @@
 - 🤔 I’m very interested in backend-development
 - 👯 I'm very friendly and non-toxic person ;) 
 - 📫 I'm looking for a job as Python/Go backend-developer
-- 🧠 I'm a student of School 21 (School 42 RUS). I passed the Survival Camp in June 2023 as Oswyn Deloras and took 6th place in the Axolotl tribe
+- 🧠 I'm a student of School 21 (School 42 RUS)
 <div id="header" align="center">
   <img src="https://sun6-23.userapi.com/s/v1/if1/F_JbgEXQ5UXcG0Rc5-qVuKrgIe0UYZHiXGOFk0zXPCa5kLWZ38GfYIZihgPfJZed4UrQWDiN.jpg?size=1401x1401&quality=96&crop=49,49,1401,1401&ava=1" width="300"/>
 </div>
