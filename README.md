@@ -5,7 +5,7 @@
   <img src="https://forum.diamondrp.ru/data/attachments/1836/1836455-3e5e06081be767faa1fe1cf6b6ccdaa1.jpg" width="600"/>
 </div>
 <div id="header" align="center">
-  <img src="https://secretmag.ru/imgs/2019/11/18/16/3659961/8a659c9ba6fb1ed6e8078875fab7a62862fcb13c.gif" width="400"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" width="400"/>
 </div>
 <div id="header" align="center">
   <img src="https://forum.diamondrp.ru/data/attachments/1836/1836455-3e5e06081be767faa1fe1cf6b6ccdaa1.jpg" width="600"/>
