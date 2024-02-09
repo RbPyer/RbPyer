@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <b>💫Hi! I am Mikhail and I am a novice developer in Python and Go💫</b>
+  <b>💫 Hi! I am Mikhail and I am a novice developer in Python and Go 💫</b>
 </div>
 <div id="header" align="center">
   <img src="https://forum.diamondrp.ru/data/attachments/1836/1836455-3e5e06081be767faa1fe1cf6b6ccdaa1.jpg" width="600"/>
