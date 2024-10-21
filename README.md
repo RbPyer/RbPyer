@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <b>💫 Hi! I am Mikhail and I am a junior backend developer in Python and Go 💫</b>
+  <b>💫 Hi! I am Mikhail and I am a Go backend developer 💫</b>
 </div>
 <div id="header" align="center">
   <img src="https://forum.diamondrp.ru/data/attachments/1836/1836455-3e5e06081be767faa1fe1cf6b6ccdaa1.jpg" width="600"/>
@@ -15,10 +15,8 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning programming on Python, Go, C and sometimes Ruby
 - 🤔 I’m very interested in backend-development
 - 👯 I'm very friendly and non-toxic person ;) 
-- 📫 I'm looking for a job as Python/Go backend-developer
 - 🧠 I'm a student of School 21 (School 42 RUS)
 <div id="header" align="center">
   <img src="https://sun6-23.userapi.com/s/v1/if1/F_JbgEXQ5UXcG0Rc5-qVuKrgIe0UYZHiXGOFk0zXPCa5kLWZ38GfYIZihgPfJZed4UrQWDiN.jpg?size=1401x1401&quality=96&crop=49,49,1401,1401&ava=1" width="300"/>
