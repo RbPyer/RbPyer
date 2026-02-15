@@ -2,19 +2,6 @@
   <b>💫 Hi! I am Mikhail and I am a Go backend developer 💫</b>
 </div>
 
----
-
-### :man_technologist: About Me :
-
-- 🤔 I’m very interested in backend-development
-- 👯 I'm very friendly and non-toxic person ;) 
-- 🧠 I'm a student of School 21 (School 42 RUS)
-<div id="header" align="center">
-  <img src="https://sun6-23.userapi.com/s/v1/if1/F_JbgEXQ5UXcG0Rc5-qVuKrgIe0UYZHiXGOFk0zXPCa5kLWZ38GfYIZihgPfJZed4UrQWDiN.jpg?size=1401x1401&quality=96&crop=49,49,1401,1401&ava=1" width="300"/>
-</div>
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
